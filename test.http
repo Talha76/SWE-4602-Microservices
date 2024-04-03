@@ -1,0 +1,5 @@
+GET localhost:9003/products/list
+###
+GET localhost:9003/employees/1
+###
+GET localhost:9003/customers/1

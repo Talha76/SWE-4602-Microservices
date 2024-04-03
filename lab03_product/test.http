@@ -1,0 +1,15 @@
+POST http://localhost:9005/products/
+Content-Type: application/json
+
+{
+  "id": 1,
+    "name": "Product 1",
+      "description": "Product 1 description",
+          "price": 100
+}
+
+###
+GET http://localhost:9005/products/1
+
+###
+GET http://localhost:9005/products/list

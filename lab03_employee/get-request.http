@@ -1,0 +1,13 @@
+POST http://localhost:9002/employees/
+Content-Type: application/json
+
+{
+  "id": 3,
+  "name": "three",
+  "designation": "dev",
+  "salary": 20000
+}
+
+###
+GET http://localhost:9002/employees/3
+Accept: application/json

@@ -1,0 +1,13 @@
+POST http://localhost:9004/customers/
+Content-Type: application/json
+
+{
+  "id": 3,
+    "name": "John Doe",
+  "address": "123 Main St",
+  "age": 25
+}
+
+###
+GET http://localhost:9004/customers/2
+Accept: application/json
