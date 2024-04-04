@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lab03api-gateway" />
+        <module name="order-service" />
         <module name="lab03_customer" />
         <module name="lab03service-registry" />
         <module name="lab03_product" />
@@ -22,6 +23,7 @@
       <module name="lab03_product" options="-parameters" />
       <module name="lab03api-gateway" options="-parameters" />
       <module name="lab03service-registry" options="-parameters" />
+      <module name="order-service" options="-parameters" />
     </option>
   </component>
 </project>

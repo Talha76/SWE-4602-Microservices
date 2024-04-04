@@ -18,6 +18,10 @@ spring:
           uri: http://localhost:9005/products/
           predicates:
               - Path=/products/**
+        - id: ORDER-SERVICE
+          uri: http://localhost:9006/orders/
+          predicates:
+            - Path=/orders/**
 eureka:
   client:
     register-with-eureka: true

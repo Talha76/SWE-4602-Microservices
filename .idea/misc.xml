@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/lab03_employee/pom.xml" />
         <option value="$PROJECT_DIR$/lab03api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/lab03service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/order-service/pom.xml" />
       </list>
     </option>
   </component>

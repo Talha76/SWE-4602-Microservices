@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/lab03_product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab03api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab03service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
